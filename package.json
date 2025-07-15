@@ -1,0 +1,24 @@
+{
+  "name": "flom-pdf-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloverstudio/flom-pdf-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloverstudio/flom-pdf-generator/issues"
+  },
+  "homepage": "https://github.com/cloverstudio/flom-pdf-generator#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pdf-puppeteer": "^1.1.10"
+  }
+}
